@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Concert+One&display=swap');
+
+#jumbotronlogo {
+width: 240px;
+  height: auto;
+}
+
+#jumbotron-order-btn {
+  background: #730073;
+  border: none;
+  height: 63px;
+  width: 180px;
+  font-weight: bold;
+  border-radius: 0px;
+  font-family: 'Concert One', sans-serif;
+}
+
+#home-jumbotron {
+  background-image: url("../images/backgrounds/pot-of-food.jpeg");
+  background-size: cover;
+  height: 480px;
+  background-position: center;
+}
+
+#home-jumbotron .display-4 {
+  color: #fff;
+  font-weight: bold;
+  font-size: 5rem;
+}
+
+h1 {
+  font-family: 'Concert One', sans-serif;
+}
+
+.navbar {
+  background: #730073;
+}
+
+.navbar-brand img{
+  width: 120px;
+}
+
+.justify-content-end{
+  width: 100%;
+}
+
+.justify-content-end a {
+  color: #fff;
+  font-family: 'Concert One', sans-serif;
+}
